@@ -1,0 +1,12 @@
+{
+  "fields":{
+    "project":{
+      "key":"PAA"
+    },
+    "summary":"My Bug",
+    "description":"my description",
+    "issuetype":{
+      "name":"Bug"
+    }
+  }
+}

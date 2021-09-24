@@ -1,0 +1,7 @@
+{
+  "body":"test comment",
+  "visibility":{
+    "type":"role",
+    "value":"Administrators"
+  }
+}

@@ -1,3 +1,5 @@
+package basics;
+
 import io.restassured.path.json.JsonPath;
 import utils.TestDataUtil;
 

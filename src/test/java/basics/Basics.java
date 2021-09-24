@@ -1,3 +1,5 @@
+package basics;
+
 import io.restassured.RestAssured;
 import io.restassured.http.Header;
 import io.restassured.path.json.JsonPath;
